@@ -1,0 +1,7 @@
+git clone https://github.com/Shaabanfadil/wepapp.git
+git add .
+git commit -m "adding starting project"
+git push
+
+to update to latest version of project from github
+git pull
